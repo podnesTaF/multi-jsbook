@@ -1,6 +1,6 @@
 {
   "name": "multi-jsbook",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@multi-jsbook/local-client": "^1.0.0"
+    "@multi-jsbook/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@multi-jsbook/local-api": "^1.0.0",
+    "@multi-jsbook/local-api": "^2.0.0",
     "@types/node": "^18.11.9",
     "commander": "^9.4.1",
     "esbuild": "0.8.26",
